@@ -16,8 +16,8 @@ provided just for own amusement). These correspond to features in the training d
 
 # Classifiers Implemented
 1. A random forest classifier.
-  - Which uses the Gini index as a splitting score.
-  - Where the K-means algorithm is used to quantize each feature, determining the thresholds to
+     - Which uses the Gini index as a splitting score.
+     - Where the K-means algorithm is used to quantize each feature, determining the thresholds to
 search over for each feature.
 2. Naive Bayes for continuous features.
 3. K nearest neighbours with cosine similarity as the distance metric.
