@@ -1,4 +1,4 @@
-# U.S. Presidential(Trump-vs-Biden) Tweet Classifer
+# U.S. Presidential (Trump-vs-Biden) Tweet Classifer
 
 # Description
 This repo is from CPSC 340: Intro to Maschine Learning. It is a model consisting of a number binary classifiers which,
