@@ -21,5 +21,5 @@ provided just for own amusement). These correspond to features in the training d
 search over for each feature.
 2. Naive Bayes for continuous features.
 3. K nearest neighbours with cosine similarity as the distance metric.
-4. A stacking ensemble consisting of your classiers from parts 1-3, where a decision tree is used as a
+4. A stacking ensemble consisting of your classifiers from parts 1-3, where a decision tree is used as a
 meta-classifier.
