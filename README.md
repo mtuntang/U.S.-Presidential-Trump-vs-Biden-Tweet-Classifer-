@@ -1,7 +1,7 @@
 # U.S. Presidential (Trump-vs-Biden) Tweet Classifer
 
 # Description
-This repo is from CPSC 340: Intro to Machine Learning. It is a model consisting of a number binary classifiers which,
+This is a model consisting of a number binary classifiers which,
 given a tweet vector, predict whether the tweet was authored by Donald Trump or Joe Biden.
 
 # Data
@@ -21,5 +21,5 @@ provided just for own amusement). These correspond to features in the training d
 search over for each feature.
 2. Naive Bayes for continuous features.
 3. K nearest neighbours with cosine similarity as the distance metric.
-4. A stacking ensemble consisting of your classifiers from parts 1-3, where a decision tree is used as a
+4. A stacking ensemble consisting of your classifiers from 1-3, where a decision tree is used as a
 meta-classifier.
